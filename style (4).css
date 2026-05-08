@@ -1,0 +1,22 @@
+library {
+    display: block;
+    background-color: powderblue;
+    padding: 10px;
+}
+
+book {
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    background-color: pink;
+}
+
+title {
+    display: block;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+author, year {
+    display: block;
+}
