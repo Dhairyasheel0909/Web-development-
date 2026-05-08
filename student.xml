@@ -1,0 +1,41 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<class> 
+   <student rollno = "53">
+      <firstname>Shreeja</firstname> 
+      <lastname>Satpute</lastname> 
+      <nickname>Shree</nickname> 
+      <marks>70</marks>
+   </student> 
+   <student rollno = "54"> 
+      <firstname>Rutuja</firstname> 
+      <lastname>Raijadhav</lastname> 
+      <nickname>Rutu</nickname> 
+      <marks>69</marks>
+   </student>
+ <student rollno = "65"> 
+   <firstname>Parth</firstname> 
+    <lastname>Kulkarni</lastname> 
+    <nickname>Patty</nickname> 
+    <marks>85</marks> 
+   </student> 
+ <student rollno = "67"> 
+   <firstname>Dhairyasheel</firstname> 
+    <lastname>Patil</lastname> 
+    <nickname>Dhairya</nickname> 
+    <marks>95</marks> 
+   </student> 
+ <student rollno = "69"> 
+   <firstname>Vivek</firstname> 
+    <lastname>Chougle</lastname> 
+    <nickname>Vivek</nickname> 
+    <marks>88</marks> 
+   </student>
+<student rollno = "42"> 
+   <firstname>Sam</firstname> 
+    <lastname>Patil</lastname> 
+    <nickname>Sam</nickname> 
+    <marks>90</marks> 
+   </student> 
+</class>
+
